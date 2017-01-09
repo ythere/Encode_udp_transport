@@ -1,0 +1,1 @@
+from client's stdin to server's buffer and return to client's stdout
